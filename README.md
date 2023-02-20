@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Luan Henzo. 👋</h1>
 
 <h3 align="center">
-  <em>I love working with Python and Java. Currently, i'm studying to become a professional back-end developer.</em>
+  <em>I love to learn. I know how to work with Java and Python, but currently i'm learning TypeScript.</em>
 </h3>
 
 <ul>
